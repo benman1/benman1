@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Ben Auffarth, a full-stack data scientist living in London. If you like some of my contributions, please check out my book, [Artificial Intelligence in Python Cookbook](https://www.amazon.co.uk/gp/product/B08GQ8TN8C).
+
+![amazon](https://github.com/benman1/benman1/raw/main/amazon.png)
+
 <!--
 **benman1/benman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
