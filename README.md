@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ben Auffarth, a full-stack data scientist living in London. If you like some of my contributions, please check out my book, [Artificial Intelligence in Python Cookbook](https://www.amazon.co.uk/dp/B08GQ8TN8C?&linkCode=wey&tag=benman1-21).
+I am Ben Auffarth, a full-stack data scientist living in London. If you like some of my contributions, please check out my book, [Artificial Intelligence in Python Cookbook](https://www.amazon.co.uk/Artificial-Intelligence-Python-Cookbook-next-generation/dp/1789133963?&linkCode=wey&tag=benman1-21).
 
 ![amazon](https://github.com/benman1/benman1/raw/main/amazon.png)
 
