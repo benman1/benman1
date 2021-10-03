@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I am Ben Auffarth, a full-stack data scientist living in London. If you like my contributions, please check out my books:
-* [Artificial Intelligence in Python Cookbook](https://www.amazon.co.uk/Artificial-Intelligence-Python-Cookbook-next-generation/dp/1789133963?&linkCode=wey&tag=benman1-21).
-* [Machine Learning for Time-Series in Python](https://www.amazon.co.uk/Machine-Learning-Time-Python-state/dp/1801819629?&linkCode=wey&tag=benman1-21).
+* [Artificial Intelligence in Python Cookbook](https://www.amazon.co.uk/Artificial-Intelligence-Python-Cookbook-next-generation/dp/1789133963?&linkCode=wey&tag=benman1-21)
+* [Machine Learning for Time-Series in Python](https://www.amazon.co.uk/Machine-Learning-Time-Python-state/dp/1801819629?&linkCode=wey&tag=benman1-21)
 
 ![amazon](https://github.com/benman1/benman1/raw/main/amazon.png)
 
