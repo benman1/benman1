@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Ben Auffarth, a full-stack data scientist living in London. If you like my contributions, please check out my books:
+I am Ben Auffarth, a full-stack data scientist living in London. I'm currently available for contract work. If you have a project in mind, feel free to reach out! You can find my bio and contact details on my [website](https://benauffarth.com).
+
+If you like my contributions, please check out my books:
 * [Generative AI with LangChain](https://amzn.to/3ua3mbY) (2023)
 * [Machine Learning for Time-Series with Python](https://amzn.to/3z1lCSI) (2021)
 * [Artificial Intelligence with Python Cookbook](https://amzn.to/3qvEVQc) (2020)
