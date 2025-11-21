@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ben Auffarth, a full-stack data scientist living in London. I'm currently available for contract work. If you have a project in mind, feel free to reach out! You can find my bio and contact details on my [website](https://benauffarth.com).
+I am Ben Auffarth, a full-stack data scientist living in London. If you have a project in mind, feel free to reach out! You can find my bio and contact details on my [website](https://www.chelseaai.co.uk/).
 
 If you like my contributions, please check out my books:
 * [Generative AI with LangChain](https://amzn.to/4dErkya) (2025; 2nd edition)
